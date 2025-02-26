@@ -1,3 +1,9 @@
+
+📌 Actividades a desarrolla clase 1
+
+link descarga rapida de imagenes oara el desarrollo de la guia
+https://drive.google.com/drive/folders/1qhYRFilbhgXWzKoGEoz-wQfLtj3KRrk7?usp=sharing 
+
 🔬 Actividades Prácticas: Conceptos Básicos de Teledetección
 
 📌 Actividad 1: Exploración de Imágenes Satelitales en Google Earth Engine
