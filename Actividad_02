@@ -1,0 +1,13 @@
+📌 Actividad 2: Descarga y Visualización de Imágenes Satelitales en QGIS
+📍 Objetivo: Descargar imágenes satelitales gratuitas y analizarlas en un software SIG.
+
+🔹 Pasos:
+
+Descarga una imagen de Landsat 8 desde USGS Earth Explorer. 
+Busca una imagen de tu región de interés.
+Descarga el producto Level 2 Surface Reflectance (SR).
+Abre QGIS y carga las bandas de la imagen descargada.
+Crea una composición en color falso:
+Bandas (B5, B4, B3) → Vegetación en rojo (NDVI).
+Bandas (B6, B5, B4) → Imagen en falso color infrarrojo térmico.
+Pregunta de análisis: ¿Cómo cambia la percepción de los objetos en función de la combinación de bandas?
