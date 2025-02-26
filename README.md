@@ -10,3 +10,6 @@
  3. Analiza las diferencias entre la imagen óptica (Landsat 8) y la de radar (Sentinel-1).
 
 Pregunta de análisis: ¿Cuáles son las ventajas de cada tipo de sensor en términos de nubosidad y detección de estructuras en la superficie?
+
+
+![GEE](https://github.com/user-attachments/assets/400396d9-2fd1-4189-a81a-0d8b55acb844)
