@@ -30,3 +30,15 @@ Bandas (B5, B4, B3) → Vegetación en rojo (NDVI).
 Bandas (B6, B5, B4) → Imagen en falso color infrarrojo térmico. 
 
 Pregunta de análisis: ¿Cómo cambia la percepción de los objetos en función de la combinación de bandas?
+
+
+📌 Actividad 3: Diferencia entre Sensores Activos y Pasivos
+📍 Objetivo: Comparar imágenes ópticas y de radar en una misma región.
+
+🔹 Pasos:
+
+- Descarga imágenes Sentinel-2 (óptico) y Sentinel-1 (radar) desde Copernicus Open Access Hub.
+- Abre las imágenes en SNAP (software de análisis de Sentinel). opcional qgis
+- Compara la visibilidad de cuerpos de agua, vegetación y áreas urbanas en ambas imágenes.
+  
+Pregunta de análisis: ¿En qué condiciones sería más útil usar imágenes de radar en lugar de ópticas?
